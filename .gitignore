@@ -1,0 +1,7 @@
+**/AOC2019/.settings
+**/AOC2019/Debug
+*.cproject
+*.gdbinit
+*.project
+**/AOC2019/Debug
+**/.metadata
